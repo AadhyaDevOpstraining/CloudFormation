@@ -1,0 +1,4 @@
+1.create internate gateway
+2.Assin default or your vpc cicdr ip range 
+
+
